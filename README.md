@@ -478,7 +478,7 @@
     
 
     <footer>
-        <p>@ 2026 Farmers Retail | Supporting Farmers</p>
+        <p>@ 2026 Farmers Retail | KISAAN CONNECT</p>
     </footer>
 
 
